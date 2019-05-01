@@ -386,7 +386,7 @@ function run(
   "webpack@4.29.6",
   "webpack-dev-server@3.1.14",
   "babel-plugin-transform-function-bind");
-
+  
   if (useAnteros===true){
     allDependencies.push(
     "axios",    
@@ -402,6 +402,10 @@ function run(
     "jquery-mask-plugin",
     "loaders.css",
     "lodash",
+    "noop",
+    "deepmerge",
+    "is-lite",
+    "tree-changes",
     "masonry-layout",
     "payment",
     "popper.js",
