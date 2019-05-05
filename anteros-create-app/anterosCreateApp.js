@@ -391,6 +391,7 @@ function run(
     allDependencies.push(
     "axios",    
     "chain-function",
+    "create-react-class",
     "d3",
     "d3-ease",
     "dom-css",
@@ -407,6 +408,7 @@ function run(
     "is-lite",
     "tree-changes",
     "masonry-layout",
+    "marker-clusterer-plus",
     "payment",
     "popper.js",
     "querystring",
@@ -422,6 +424,7 @@ function run(
     "resize-observer-polyfill",
     "script-loader",
     "tween",
+    "imagesloaded",
     "warning",
     "husky",
     "lint-staged",
