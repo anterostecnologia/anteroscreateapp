@@ -395,6 +395,7 @@ function run(
     "d3",
     "d3-ease",
     "dom-css",
+    'cropperjs',
     "dom-helpers",
     "eonasdan-bootstrap-datetimepicker",
     "exenv",
