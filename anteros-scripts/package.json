@@ -1,6 +1,6 @@
 {
-  "name": "anteros-scripts",
-  "version": "1.0.3",
+  "name": "@anterostecnologia/anteros-scripts",
+  "version": "2.0.3",
   "description": "Configuration and scripts for Anteros Create App with decorators.",
   "repository": "anterostecnologia/anteros-create-app",
   "license": "MIT",
